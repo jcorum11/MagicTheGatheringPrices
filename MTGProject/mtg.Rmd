@@ -1,5 +1,5 @@
 ---
-title: 'Final Project: Magic The Gathering Prices'
+title: 'Personal Project: Magic The Gathering Prices'
 author: "Jake Corum"
 date: "November 23, 2018"
 output: 
